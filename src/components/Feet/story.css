@@ -1,0 +1,114 @@
+.styled-tab:hover {
+  background-color: #eeeeee;
+  transition: 0.3s ease-in-out;
+}
+.str-card:first-child {
+  margin: 10px;
+  border-radius: 10px;
+  position: relative;
+}
+.str-card:nth-child(2) {
+  border-radius: 10px;
+  margin: 11px 10px 10px 10px;
+  position: relative;
+}
+.str-card:nth-child(3) {
+  border-radius: 10px;
+  margin: 11px 10px 10px 10px;
+  position: relative;
+}
+.str-card:nth-child(4) {
+  border-radius: 10px;
+  margin: 11px 10px 10px 10px;
+  position: relative;
+}
+
+.str-card {
+  overflow: hidden;
+}
+/* img */
+.str-img-2,
+.str-img-3,
+.str-img-4 {
+  height: 220px;
+  width: 180px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  transition: 0.2s ease-in-out;
+}
+.str-img-1 {
+  height: 150px;
+  transition: 0.2s ease-in-out;
+}
+
+.str-name-2,
+.str-name-3,
+.str-name-4 {
+  font-size: 13px;
+  position: relative !important;
+  bottom: 40px;
+  left: 10px;
+  font-weight: 600;
+  color: #fff;
+  z-index: 3;
+}
+.str-img-1:hover {
+  transition: 0.2s ease-in-out;
+  transform: scale(1.05, 1.05);
+}
+.overlay-str:hover ~ .str-img {
+  transition: 0.2s ease-in-out;
+  transform: scale(1.05, 1.05);
+}
+.overlay-str {
+  position: absolute;
+  left: 0px;
+  width: 135px;
+  height: 220px;
+  background-color: rgba(116, 116, 116, 0.5);
+  z-index: 2;
+}
+/* btn */
+.add-btn {
+  background-color: #1876f2 !important;
+  z-index: 3;
+  transform: scale(0.8, 0.8);
+  position: absolute;
+  bottom: 25px;
+  left: calc(50% - 20px);
+}
+.str-name-1 {
+  position: absolute;
+  bottom: 5px;
+  left: 45px;
+  font-weight: 600;
+  font-size: 13px;
+}
+.add-icon {
+  color: #fff;
+}
+.overlay-btn {
+  position: absolute;
+  background-color: #fff;
+  border-radius: 50%;
+  width: 43px;
+  height: 43px;
+  bottom: 46px;
+  left: 46.3px;
+}
+.str-avatar {
+  z-index: 1000;
+  top: 10px;
+  left: 10px;
+}
+.str-avatar-overlap {
+  position: absolute;
+  z-index: 999;
+  top: 6px;
+  left: 6px;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background-color: #1876f2;
+}

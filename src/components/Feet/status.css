@@ -1,0 +1,108 @@
+.status-input {
+  border: none !important;
+  border-radius: 20px !important;
+  width: 550px !important;
+  height: 43px;
+  transition: 0.2s ease-in-out;
+  background-color: rgba(224, 221, 221, 0.5);
+}
+.status-input:hover {
+  background-color: rgba(199, 197, 197, 0.5);
+  outline: none;
+  border: none;
+  transition: 0.2s ease-in-out;
+}
+.status-input::placeholder {
+  padding-left: 10px;
+}
+.status-input:focus {
+  background-color: rgba(199, 197, 197, 0.5);
+  outline: none;
+  border: none;
+  transition: 0.2s ease-in-out;
+}
+.comment-input {
+  border: none !important;
+  border-radius: 20px !important;
+  width: 560px !important;
+  height: 35px;
+  transition: 0.2s ease-in-out;
+  background-color: rgba(224, 221, 221, 0.5);
+}
+.comment-input-add {
+  border: none !important;
+  border-radius: 20px !important;
+  width: 565px !important;
+  height: 35px;
+  transition: 0.2s ease-in-out;
+  background-color: rgba(224, 221, 221, 0.5);
+}
+.comment-input-watch {
+  border: none !important;
+  border-radius: 20px !important;
+  width: 760px !important;
+  height: 35px;
+  transition: 0.2s ease-in-out;
+  background-color: rgba(224, 221, 221, 0.5);
+}
+.comment-input:hover,
+.comment-input-add:hover,
+.comment-input-watch:hover {
+  background-color: rgba(199, 197, 197, 0.5);
+  outline: none;
+  border: none;
+  transition: 0.2s ease-in-out;
+}
+.comment-input::placeholder,
+.comment-input-add::placeholder,
+.comment-input-watch::placeholder {
+  padding-left: 10px;
+}
+.comment-input:focus,
+.comment-input-add:focus,
+.comment-input-watch:focus {
+  background-color: rgba(199, 197, 197, 0.5);
+  outline: none;
+  border: none;
+  transition: 0.2s ease-in-out;
+}
+.fix-btn {
+  width: 30px;
+  height: 30px;
+  padding: 20px;
+  border-radius: 50%;
+  margin-right: 20px;
+  outline: 0;
+  border: 0;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.fix-btn:hover {
+  background-color: rgba(199, 197, 197, 0.5);
+}
+.post-overlay {
+  width: 125px;
+  height: 23px;
+  background-color: rgba(199, 197, 197, 0.5);
+  border-radius: 4px;
+  position: absolute;
+  top: 87px;
+}
+.post-input {
+  height: 80px;
+  width: calc(100% - 18px);
+  border: none;
+  outline: none;
+  position: relative;
+  left: 18px;
+  top: -15px;
+}
+.post-input::placeholder {
+  font-size: 22px;
+}
+::-webkit-scrollbar {
+  position: absolute;
+  width: 0.1px;
+}

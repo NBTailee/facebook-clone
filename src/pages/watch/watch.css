@@ -1,0 +1,63 @@
+.all-overlap-btn {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #e4e6eb;
+  z-index: 1;
+}
+.watch-sidebar-btn {
+  position: absolute;
+  z-index: 2;
+  left: 8px;
+}
+.watch-sidebar-btn-active {
+  position: absolute;
+  z-index: 2;
+  left: 8px;
+  background-color: #1b74e4 !important;
+}
+.setting-overlap {
+  position: fixed;
+  top: 74px;
+  left: 300px;
+}
+.video-search {
+  height: 38px;
+  width: 321px;
+  margin-bottom: 12px;
+  border: none;
+  outline: none;
+  background-color: #f0f2f5;
+  border-radius: 18px;
+  margin-left: 22px;
+}
+.video-search::placeholder {
+  padding-left: 38px;
+}
+.watch-card:hover .watch-card-btn {
+  opacity: 1;
+  transition: 0.2s ease-in;
+}
+.comment-input {
+  border: none !important;
+  border-radius: 20px !important;
+  width: 760px !important;
+  height: 35px;
+  transition: 0.2s ease-in-out;
+  background-color: rgba(224, 221, 221, 0.5);
+}
+.comment-input:hover {
+  background-color: rgba(199, 197, 197, 0.5);
+  outline: none;
+  border: none;
+  transition: 0.2s ease-in-out;
+}
+.comment-input::placeholder {
+  padding-left: 10px;
+}
+.comment-input:focus {
+  background-color: rgba(199, 197, 197, 0.5);
+  outline: none;
+  border: none;
+  transition: 0.2s ease-in-out;
+}
