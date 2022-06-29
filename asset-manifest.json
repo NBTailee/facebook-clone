@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NBTailee/facepoop-clone/static/css/main.ac4a4d84.css",
+    "main.js": "/NBTailee/facepoop-clone/static/js/main.e61fffbe.js",
+    "index.html": "/NBTailee/facepoop-clone/index.html",
+    "main.ac4a4d84.css.map": "/NBTailee/facepoop-clone/static/css/main.ac4a4d84.css.map",
+    "main.e61fffbe.js.map": "/NBTailee/facepoop-clone/static/js/main.e61fffbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac4a4d84.css",
+    "static/js/main.e61fffbe.js"
+  ]
+}
