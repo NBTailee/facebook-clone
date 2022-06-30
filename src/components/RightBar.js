@@ -72,8 +72,8 @@ function RightBar() {
                     width: "100px",
                     height: "100px",
                     margin: "0 20px 12px 0px",
-                  }}
-                  src="../public/img/str17.png"
+                  }} 
+                  src="../../../img/str17.png"
                 />
               </ListItemAvatar>
               <ListItemText secondary="shope.ee" />
@@ -87,7 +87,7 @@ function RightBar() {
                     height: "100px",
                     margin: "0 20px 12px 0px",
                   }}
-                  src="../public/img/str16.jpg"
+                  src="../../../img/str16.jpg"
                 />
               </ListItemAvatar>
               <ListItemText primary="Xgear" secondary="thenewxgear.com" />
@@ -180,7 +180,7 @@ function RightBar() {
                     horizontal: "right",
                   }}
                 >
-                  <Avatar src="../public/img/str9.jpg" />
+                  <Avatar src="../../../img/str9.jpg" />
                 </Badge>
               </ListItemAvatar>
               <ListItemText primary="quyền cu" />
@@ -214,7 +214,7 @@ function RightBar() {
                     horizontal: "right",
                   }}
                 >
-                  <Avatar src="../public/img/str15.jpg" />
+                  <Avatar src="../../../img/str15.jpg" />
                 </Badge>
               </ListItemAvatar>
               <ListItemText primary="Bắc nô lệ châu Phi" />
@@ -231,7 +231,7 @@ function RightBar() {
                     horizontal: "right",
                   }}
                 >
-                  <Avatar src="../public/img/str7.jpg" />
+                  <Avatar src="../../../img/str7.jpg" />
                 </Badge>
               </ListItemAvatar>
               <ListItemText primary="Vũ cu bé" />
@@ -265,7 +265,7 @@ function RightBar() {
                     horizontal: "right",
                   }}
                 >
-                  <Avatar src="../public/img/str6.jpg"/>
+                  <Avatar src="../../../img/str6.jpg"/>
                 </Badge>
               </ListItemAvatar>
               <ListItemText primary="Lộc wibu retard" />
@@ -282,7 +282,7 @@ function RightBar() {
                     horizontal: "right",
                   }}
                 >
-                  <Avatar src="../public/img/str8.jpg" />
+                  <Avatar src="../../../img/str8.jpg" />
                 </Badge>
               </ListItemAvatar>
               <ListItemText primary="Fuoc liên kết" />
@@ -316,7 +316,7 @@ function RightBar() {
                     horizontal: "right",
                   }}
                 >
-                  <Avatar src="../public/img/str10.jpg" />
+                  <Avatar src="../../../img/str10.jpg" />
                 </Badge>
               </ListItemAvatar>
               <ListItemText primary="Thiên lỏd" />
