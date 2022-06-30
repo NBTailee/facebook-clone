@@ -67,7 +67,7 @@ function Feet() {
               ></div>
             </IconButton>
             <Avatar
-              src="https://scontent.fsgn2-2.fna.fbcdn.net/v/t39.30808-1/261053231_2261251027347262_3948043119798212980_n.png?stp=cp0_dst-png_p60x60&_nc_cat=1&ccb=1-7&_nc_sid=1eb0c7&_nc_ohc=VorovOB7PEoAX_unpXb&_nc_ht=scontent.fsgn2-2.fna&oh=00_AT-fgoXt_sC86MTh2euWZrXsAmnzLVBwH-7mb6L3swghmQ&oe=62BA0803"
+              src="../../../img/str12.png"
               sx={{ width: "60px", height: "60px" }}
             />
             <ListItemText
@@ -128,7 +128,7 @@ function Feet() {
         cmtCount="722"
         watchCount="99.2K"
         likeCount="23K"
-        avatar="https://scontent.fsgn2-2.fna.fbcdn.net/v/t39.30808-1/283139142_3258985951088349_6455119359606250558_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=1&ccb=1-7&_nc_sid=1eb0c7&_nc_ohc=5exJ8h9bc28AX_jpoha&_nc_ht=scontent.fsgn2-2.fna&oh=00_AT9wd_-CYXKWkdoUY4E-OP5eqbPnlN4FqQ7jDAH-COzmRg&oe=62B9DCBE"
+        avatar="../../../img/str11.jpg"
       />
       <Post
         type="heart"
@@ -140,7 +140,7 @@ function Feet() {
         cmtCount="221"
         watchCount="329K"
         likeCount="113K"
-        avatar="https://scontent.fsgn2-2.fna.fbcdn.net/v/t39.30808-1/261053231_2261251027347262_3948043119798212980_n.png?stp=cp0_dst-png_p60x60&_nc_cat=1&ccb=1-7&_nc_sid=1eb0c7&_nc_ohc=VorovOB7PEoAX_unpXb&_nc_ht=scontent.fsgn2-2.fna&oh=00_AT-fgoXt_sC86MTh2euWZrXsAmnzLVBwH-7mb6L3swghmQ&oe=62BA0803"
+        avatar="../../../img/str12.png"
       />
       <Post
         content="Sáu năm thanh xuân của bác sĩ Gấu"
