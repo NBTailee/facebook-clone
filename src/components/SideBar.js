@@ -139,7 +139,7 @@ function SideBar() {
           ></List>
           <ListItemButton sx={{ marginBottom: "10px" }}>
             <Avatar
-              src="https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/240655429_4059163764195718_3652059374269714525_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8631f5&_nc_ohc=3Fu1FnIP2-sAX-H45rD&_nc_ht=scontent.fsgn2-3.fna&oh=00_AT_jWZpu98q72UAvIo8bob891yTDdRUeQnPDER4w7Htd5A&oe=62B2050E"
+              src="../public/img/str5.jpg"
               variant="rounded"
             ></Avatar>
             <ListItemText
