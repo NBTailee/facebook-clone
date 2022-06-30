@@ -117,7 +117,7 @@ function Feet() {
           place="Dĩ An"
         />
         <GridProduct
-          img="https://scontent.fsgn2-6.fna.fbcdn.net/v/t39.30808-6/275288485_501693098201800_6877783614788937850_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Twio1n4Oc_4AX8tzpyZ&_nc_ht=scontent.fsgn2-6.fna&oh=00_AT-5drA3CkArsGJdjPfpDu8W8fRQE5tnuYOwwoA1Zch65Q&oe=62B68C05"
+          img="../../../img/str15.jpg"
           price="0"
           name="Bán Nô lệ châu phi"
           place="Vũng tàu"
