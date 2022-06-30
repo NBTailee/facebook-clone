@@ -139,7 +139,7 @@ function SideBar() {
           ></List>
           <ListItemButton sx={{ marginBottom: "10px" }}>
             <Avatar
-              src="../public/img/str5.jpg"
+              src="../../../img/str5.jpg"
               variant="rounded"
             ></Avatar>
             <ListItemText
