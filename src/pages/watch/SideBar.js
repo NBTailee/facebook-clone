@@ -215,7 +215,7 @@ function SideBar() {
               height: "52px",
             }}
           >
-            <Avatar src="https://scontent.fsgn2-2.fna.fbcdn.net/v/t39.30808-1/261053231_2261251027347262_3948043119798212980_n.png?stp=cp0_dst-png_p60x60&_nc_cat=1&ccb=1-7&_nc_sid=1eb0c7&_nc_ohc=VorovOB7PEoAX_unpXb&_nc_ht=scontent.fsgn2-2.fna&oh=00_AT-fgoXt_sC86MTh2euWZrXsAmnzLVBwH-7mb6L3swghmQ&oe=62BA0803"></Avatar>
+            <Avatar src="../../../img/str12.png"></Avatar>
             <ListItemText
               sx={{ paddingLeft: "20px" }}
               secondary="1 video mới"
@@ -229,7 +229,7 @@ function SideBar() {
               height: "52px",
             }}
           >
-            <Avatar src="https://scontent.fsgn2-2.fna.fbcdn.net/v/t39.30808-1/283139142_3258985951088349_6455119359606250558_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=1&ccb=1-7&_nc_sid=1eb0c7&_nc_ohc=5exJ8h9bc28AX_jpoha&_nc_ht=scontent.fsgn2-2.fna&oh=00_AT9wd_-CYXKWkdoUY4E-OP5eqbPnlN4FqQ7jDAH-COzmRg&oe=62B9DCBE"></Avatar>
+            <Avatar src="../../../img/str11.jpg"></Avatar>
             <ListItemText
               sx={{ paddingLeft: "20px" }}
               secondary="7 video mới"
@@ -243,7 +243,7 @@ function SideBar() {
               height: "52px",
             }}
           >
-            <Avatar src="https://scontent.fsgn2-2.fna.fbcdn.net/v/t39.30808-1/264294923_460523078775033_5372135284490468824_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=103&ccb=1-7&_nc_sid=3170a5&_nc_ohc=XKVNLIMz-SYAX-ZgSKG&tn=c7RL3FztuUPaO1x5&_nc_ht=scontent.fsgn2-2.fna&oh=00_AT8odOpM7eQkEObuh6hqF9wtlsevy6g0ISLfaE8bd4kEIQ&oe=62BA874C"></Avatar>
+            <Avatar src="../../../img/str13.jpg"></Avatar>
             <ListItemText
               sx={{ paddingLeft: "20px" }}
               secondary="9+ video mới"
@@ -257,7 +257,7 @@ function SideBar() {
               height: "52px",
             }}
           >
-            <Avatar src="https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-1/277351432_2988196081398198_8481372737273516209_n.jpg?stp=cp0_dst-jpg_p60x60&_nc_cat=109&ccb=1-7&_nc_sid=1eb0c7&_nc_ohc=LYM9FMmMbnwAX9BHeZm&_nc_ht=scontent.fsgn2-4.fna&oh=00_AT-xeBixFy6QS_YQP-qjtVPVBFAAHWYMFAX9aT1yZWu42Q&oe=62BAA3B7"></Avatar>
+            <Avatar src="../../../img/str14.jpg"></Avatar>
             <ListItemText
               sx={{ paddingLeft: "20px" }}
               secondary="5 video mới"
