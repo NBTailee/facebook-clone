@@ -55,7 +55,7 @@ function RightBar() {
             <IconButton
               sx={{
                 position: "relative",
-                bottom: "235px",
+                bottom: "215px",
                 left: "285px",
               }}
             >
@@ -68,8 +68,8 @@ function RightBar() {
                 borderRadius: "50%",
                 background: "#929292",
                 position: "absolute",
-                bottom: "315px",
-                left: "295.5px",
+                bottom: "290px",
+                left: "294.5px",
                 zIndex: "3",
                 opacity: "0.5",
               }}
