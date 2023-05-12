@@ -50,7 +50,7 @@ function RightBar() {
           >
             <img
               style={{ zIndex: "2", borderBottom: "0.1px solid #e4e6eb" }}
-              src="https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/346636204_1976809042669159_1187030856476652394_n.jpg?stp=dst-jpg_p960x960&_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=ifa4HDuel0MAX-iJX86&_nc_ht=scontent.fsgn2-5.fna&oh=00_AfBzeuB_GMzF06rSD4vssVN8V7i-y-aCl5r2WzJ1gNsYow&oe=6463C6FA"
+              src="https://scontent.fsgn2-6.fna.fbcdn.net/v/t39.30808-6/280053446_379716270758619_9154695677241744663_n.jpg?stp=dst-jpg_p480x480&_nc_cat=111&ccb=1-7&_nc_sid=5cd70e&_nc_ohc=rh84flqx7NYAX9iH3RS&_nc_ht=scontent.fsgn2-6.fna&oh=00_AfADNCq1Qps1QlnDwuhQtffuNM8YtZZOJuZ3fvIHXlxZgA&oe=6463E4C4"
             />
             <IconButton
               sx={{
